@@ -12,7 +12,7 @@ h1 {
 
 .malla-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 15px;
   margin-top: 20px;
   padding: 10px;
@@ -24,7 +24,7 @@ h1 {
   padding: 10px;
   background-color: #cce0ff;
   cursor: pointer;
-  transition: 0.3s;
+  transition: 0.3s ease;
 }
 
 .ramo:hover {
