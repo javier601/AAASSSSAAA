@@ -70,9 +70,9 @@ const ramos = {
   "Electivo de Desarrollo Personal": [],
   "Proyecto de la Investigación II": ["Proyecto de la Investigación I"],
   "Electivo de Responsabilidad Social": [],
-  "Práctica Profesional I": ["Proyecto de la Investigación II"],  // simplificado
-  "Práctica Profesional II": ["Proyecto de la Investigación II"],  // simplificado
-  "Seminario de Integración de Enfermería": ["Proyecto de la Investigación II"] // simplificado
+  "Práctica Profesional I": ["Proyecto de la Investigación II"],
+  "Práctica Profesional II": ["Proyecto de la Investigación II"],
+  "Seminario de Integración de Enfermería": ["Proyecto de la Investigación II"]
 };
 
 const estadoRamos = {};
